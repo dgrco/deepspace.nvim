@@ -1,0 +1,32 @@
+# Deepspace Alacritty theme
+[colors.primary]
+background = "#111215"
+foreground = "#ffffff"
+
+[colors.cursor]
+text = "#111215"
+cursor = "#ffffff"
+
+[colors.selection]
+text = "CellForeground"
+background = "#28344a"
+
+[colors.normal]
+black   = "#111215"
+red     = "#f7768e"
+green   = "#89fa9c"
+yellow  = "#fabd2f"
+blue    = "#6ea8e6"
+magenta = "#e0af68"
+cyan    = "#7dcfff"
+white   = "#ffffff"
+
+[colors.bright]
+black   = "#7982a9"
+red     = "#f7768e"
+green   = "#89fa9c"
+yellow  = "#e0af68"
+blue    = "#6ea8e6"
+magenta = "#bb9af7"
+cyan    = "#7dcfff"
+white   = "#ffffff"
