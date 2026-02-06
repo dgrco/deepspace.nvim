@@ -5,7 +5,8 @@ A Neovim colorscheme for deep focus.
 Near black background, bright white foreground text, semantic highlighting,
 and minimal stylistic noise (no bold, no italics).
 
-<img width="1560" height="1123" alt="image" src="https://github.com/user-attachments/assets/1263d018-ecf3-480a-b5f0-28643da317e0" />
+<img width="1549" height="1087" alt="image" src="https://github.com/user-attachments/assets/2a127797-555c-47af-88de-74c6671c6d5b" />
+
 
 
 ## Installation
