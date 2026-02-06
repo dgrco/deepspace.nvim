@@ -25,7 +25,7 @@ local c = {
   -- Syntax
   comment     = '#89fa9c',
   string      = '#f6c177',
-  keyword     = '#6ea8e6',
+  keyword     = '#7aa0de',
   constant    = '#f6c177',
   func        = '#ffffff',
   type        = '#7dcfff',
