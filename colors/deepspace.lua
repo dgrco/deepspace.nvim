@@ -23,7 +23,7 @@ local c = {
   match_paren = '#f6c177',
 
   -- Syntax
-  comment     = '#89fa9c',
+  comment     = '#55ab64',
   string      = '#f6c177',
   keyword     = '#7aa0de',
   constant    = '#f6c177',
