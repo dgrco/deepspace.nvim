@@ -20,7 +20,7 @@ local c = {
   visual      = '#28344a',
   search_bg   = '#3d59a1',
   search_fg   = '#ffffff',
-  match_paren = '#7dcfff',
+  match_paren = '#f6c177',
 
   -- Syntax
   comment     = '#89fa9c',
